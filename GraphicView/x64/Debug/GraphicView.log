@@ -1,0 +1,68 @@
+﻿生成启动时间为 2019/1/26 11:29:44。
+     1>项目“C:\Users\A\Desktop\View\GraphicView\GraphicView\GraphicView.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Uic'ing GraphicView.ui...
+         Moc'ing LeftLayout.h...
+         Moc'ing MiniMap.h...
+         Moc'ing PaintMiniThread.h...
+         Moc'ing ReadBlockThread.h...
+         Moc'ing View.h...
+         Moc'ing QImageLabel.h...
+         Rcc'ing GraphicView.qrc...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\A\Desktop\View\GraphicView\GraphicView\libtiff\include /I.\GeneratedFiles /I. /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtCore /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtGui /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_LeftLayout.cpp GeneratedFiles\Debug\moc_MiniMap.cpp GeneratedFiles\Debug\moc_PaintMiniThread.cpp GeneratedFiles\Debug\moc_QImageLabel.cpp GeneratedFiles\Debug\moc_ReadBlockThread.cpp GeneratedFiles\Debug\moc_View.cpp LeftLayout.cpp main.cpp MEvent.cpp MiniMap.cpp MLog.cpp MouseData.cpp MPoint.cpp PaintMiniThread.cpp ReadBlockThread.cpp TiffBlockManager.cpp QImageLabel.cpp SharedGlobalVariable.cpp TiffHelper.cpp TxtHelper.cpp View.cpp
+         moc_LeftLayout.cpp
+         moc_MiniMap.cpp
+         moc_PaintMiniThread.cpp
+         moc_QImageLabel.cpp
+         moc_ReadBlockThread.cpp
+         moc_View.cpp
+         LeftLayout.cpp
+         main.cpp
+         MEvent.cpp
+         MiniMap.cpp
+         MLog.cpp
+         MouseData.cpp
+         MPoint.cpp
+         PaintMiniThread.cpp
+         ReadBlockThread.cpp
+         TiffBlockManager.cpp
+         QImageLabel.cpp
+         SharedGlobalVariable.cpp
+         TiffHelper.cpp
+         TxtHelper.cpp
+         正在生成代码...
+         正在编译...
+         View.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\A\Desktop\View\GraphicView\GraphicView\libtiff\include /I.\GeneratedFiles /I. /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtCore /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtGui /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_GraphicView.cpp
+         qrc_GraphicView.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\A\Desktop\View\GraphicView\x64\Debug\\GraphicView.exe" /NOLOGO /LIBPATH:C:\Users\A\Desktop\View\GraphicView\GraphicView\libtiff\lib /LIBPATH:C:\Qt\Qt5.8.0\5.8\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib libtiff.lib opencv_calib3d2412d.lib opencv_contrib2412d.lib opencv_core2412d.lib opencv_features2d2412d.lib opencv_flann2412d.lib opencv_gpu2412d.lib opencv_highgui2412d.lib opencv_imgproc2412d.lib opencv_legacy2412d.lib opencv_ml2412d.lib opencv_nonfree2412d.lib opencv_objdetect2412d.lib opencv_ocl2412d.lib opencv_photo2412d.lib opencv_stitching2412d.lib opencv_superres2412d.lib opencv_ts2412d.lib opencv_video2412d.lib opencv_videostab2412d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\A\Desktop\View\GraphicView\x64\Debug\GraphicView.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\A\Desktop\View\GraphicView\x64\Debug\GraphicView.lib" /MACHINE:X64 x64\Debug\moc_LeftLayout.obj
+         x64\Debug\moc_MiniMap.obj
+         x64\Debug\moc_PaintMiniThread.obj
+         x64\Debug\moc_QImageLabel.obj
+         x64\Debug\moc_ReadBlockThread.obj
+         x64\Debug\moc_View.obj
+         x64\Debug\qrc_GraphicView.obj
+         x64\Debug\LeftLayout.obj
+         x64\Debug\main.obj
+         x64\Debug\MEvent.obj
+         x64\Debug\MiniMap.obj
+         x64\Debug\MLog.obj
+         x64\Debug\MouseData.obj
+         x64\Debug\MPoint.obj
+         x64\Debug\PaintMiniThread.obj
+         x64\Debug\ReadBlockThread.obj
+         x64\Debug\TiffBlockManager.obj
+         x64\Debug\QImageLabel.obj
+         x64\Debug\SharedGlobalVariable.obj
+         x64\Debug\TiffHelper.obj
+         x64\Debug\TxtHelper.obj
+         x64\Debug\View.obj
+         GraphicView.vcxproj -> C:\Users\A\Desktop\View\GraphicView\x64\Debug\GraphicView.exe
+     1>已完成生成项目“C:\Users\A\Desktop\View\GraphicView\GraphicView\GraphicView.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:20.26

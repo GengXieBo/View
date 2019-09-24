@@ -1,0 +1,58 @@
+﻿生成启动时间为 2019/1/25 19:57:46。
+     1>项目“C:\Users\A\Desktop\View\GraphicView\GraphicView\GraphicView.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Uic'ing GraphicView.ui...
+         Moc'ing LeftLayout.h...
+         Moc'ing MiniMap.h...
+         Moc'ing PaintMiniThread.h...
+         Moc'ing ReadBlockThread.h...
+         Moc'ing View.h...
+         Moc'ing QImageLabel.h...
+         Rcc'ing GraphicView.qrc...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtCore /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtGui /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtWidgets /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_GraphicView.cpp
+         qrc_GraphicView.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtCore /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtGui /IC:\Qt\Qt5.8.0\5.8\msvc2013_64\include\QtWidgets /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Release\moc_LeftLayout.cpp GeneratedFiles\Release\moc_MiniMap.cpp GeneratedFiles\Release\moc_PaintMiniThread.cpp GeneratedFiles\Release\moc_QImageLabel.cpp GeneratedFiles\Release\moc_ReadBlockThread.cpp GeneratedFiles\Release\moc_View.cpp LeftLayout.cpp main.cpp MEvent.cpp MiniMap.cpp MLog.cpp MouseData.cpp MPoint.cpp PaintMiniThread.cpp ReadBlockThread.cpp TiffBlockManager.cpp QImageLabel.cpp SharedGlobalVariable.cpp TiffHelper.cpp TxtHelper.cpp View.cpp
+         moc_LeftLayout.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         moc_MiniMap.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         moc_PaintMiniThread.cpp
+         moc_QImageLabel.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         moc_ReadBlockThread.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffHelper.h(3): fatal error C1083: 无法打开包括文件: “tiffio.h”: No such file or directory
+         moc_View.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         LeftLayout.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         main.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         MEvent.cpp
+         MiniMap.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         MLog.cpp
+         MouseData.cpp
+         MPoint.cpp
+         PaintMiniThread.cpp
+         ReadBlockThread.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffHelper.h(3): fatal error C1083: 无法打开包括文件: “tiffio.h”: No such file or directory
+         TiffBlockManager.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         QImageLabel.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         SharedGlobalVariable.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         TiffHelper.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffHelper.h(3): fatal error C1083: 无法打开包括文件: “tiffio.h”: No such file or directory
+         TxtHelper.cpp
+         正在生成代码...
+         正在编译...
+         View.cpp
+     1>c:\users\a\desktop\view\graphicview\graphicview\TiffBlockManager.h(2): fatal error C1083: 无法打开包括文件: “tiff.h”: No such file or directory
+         正在生成代码...
+     1>已完成生成项目“C:\Users\A\Desktop\View\GraphicView\GraphicView\GraphicView.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:17.02

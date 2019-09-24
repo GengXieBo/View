@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/GraphicView">
+        <file>Resources/click.png</file>
+        <file>Resources/delete.png</file>
+        <file>Resources/deleteAll.png</file>
+        <file>Resources/goto.png</file>
+        <file>Resources/gp.png</file>
+        <file>Resources/load.png</file>
+        <file>Resources/next.png</file>
+        <file>Resources/paint.png</file>
+        <file>Resources/pre.png</file>
+    </qresource>
+</RCC>
